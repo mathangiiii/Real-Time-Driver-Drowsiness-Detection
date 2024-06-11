@@ -9,7 +9,7 @@ This project that focuses on enhancing road safety by using Machine Learning to 
   Branch: B.Tech Computer Science Engineering (AI & DS)
   
 - **Madhav N**
-  Branch: B.Tech Information Technology
+- Branch: B.Tech Information Technology
 
 
 ## Table of Contents
