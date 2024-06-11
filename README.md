@@ -5,7 +5,7 @@ Welcome to the DorkyDuos team's GitHub repository for our project on Real-Time D
 This project that focuses on enhancing road safety by using Machine Learning to monitor signs of driver fatigue, such as eye movements and facial expressions, aiming to prevent accidents and reduce road fatalities.
 
 ## Team Members
-- **Mathangi N (Team Leader)**  
+- **Mathangi N**  
   Branch: B.Tech Computer Science Engineering (AI & DS)
 - **Madhav N**  
   Branch: B.Tech Information Technology 
