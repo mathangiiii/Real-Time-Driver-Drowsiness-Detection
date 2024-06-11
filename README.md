@@ -7,6 +7,7 @@ This project that focuses on enhancing road safety by using Machine Learning to 
 ## Team Members
 - **Mathangi N**  
   Branch: B.Tech Computer Science Engineering (AI & DS)
+  
 - **Madhav N**
   Branch: B.Tech Information Technology
 
