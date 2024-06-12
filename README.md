@@ -1,5 +1,5 @@
 # Real-Time Driver Drowsiness Detection: A Revolution in Road Safety
-
+[![forthebadge](https://forthebadge.com/images/badges/made-with-python.svg)](https://forthebadge.com)
 Welcome to the DorkyDuos team's GitHub repository for our project on Real-Time Driver Drowsiness Detection. This project aims to enhance road safety by employing advanced technologies for real-time detection of driver drowsiness.
 
 This project focuses on enhancing road safety by using Machine Learning to identify signs of driver fatigue, such as eye movements and facial expressions, aiming to prevent accidents and reduce road fatalities.
